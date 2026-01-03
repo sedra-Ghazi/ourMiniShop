@@ -1,0 +1,1 @@
+// enum ModelType {CategoryModel,ProductModel}
